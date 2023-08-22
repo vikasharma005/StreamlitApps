@@ -7,7 +7,7 @@ from apps.chat.main import chat
 from apps.whiteboard.main import whiteboard
 
 
-# st.set_page_config(page_title="Streamlit Fun Apps")
+# st.set_page_config(page_title="Streamlit Apps")
 
 games_list = {"about": "Home",
               "guess": "Guessing Game",

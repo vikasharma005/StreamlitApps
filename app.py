@@ -23,7 +23,7 @@ def getAppCode(AppID):
 
 
 def main():
-    st.title("Streamlit Fun Apps")
+    st.title("Streamlit Apps")
     selected_app = st.sidebar.selectbox("Select App",
                                         options=list(games_list.keys()),
                                         format_func=lambda x: getAppCode(x))

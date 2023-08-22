@@ -1,5 +1,5 @@
-# Streamlit Fun Apps
-This repo contains few apps/games developed in Streamlit.
+# Streamlit Apps
+This repo contains few apps developed in Streamlit.
 
 ___
 ## Guessing Game
@@ -38,7 +38,7 @@ ___
 ## Demo
 You can access the demo version deployed on Streamlit server at:
 
-[https://fun-games.streamlitapp.com/](https://fun-games.streamlitapp.com/)
+[https://streamapp.streamlit.app/](https://streamapp.streamlit.app/)
 
 ___
 ## Run
@@ -46,20 +46,38 @@ In order to run this tool, you must have Streamlit installed on your machine/env
 
     streamlit run app.py
 
-## Run on Docker
-This application is available on [Docker Hub](https://hub.docker.com/r/kavehbc/streamlit-apps), and it can be run directly using:
-
-    docker run -p 80:8501 kavehbc/streamlit-apps
-
-Once you run it, you can open it in your browser on [http://127.0.0.1](http://127.0.0.1).
 
 ## GitHub Repo
-This project is open-source, and it is available on Github at [https://github.com/kavehbc/streamlit-apps](https://github.com/kavehbc/streamlit-apps).
+This project is open-source, and it is available on Github at [https://github.com/vikasharma005/StreamlitApps/](https://github.com/vikasharma005/StreamlitApps/).
 
-## Developer(s)
+## Author
 
-Kaveh Bakhtiyari - [Website](http://bakhtiyari.com) | [Medium](https://medium.com/@bakhtiyari)
-  | [LinkedIn](https://www.linkedin.com/in/bakhtiyari) | [GitHub](https://github.com/kavehbc)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-## Contribution
-Feel free to join the open-source community and contribute to this repository.
+<h3 align="center">Hi there 👋, I'm Vikas</h3>
+<h4 align="center">Just learning New Skills😀</h4>
+
+<div id="socials" align="center">
+  <a href="https://www.linkedin.com/in/vikas-sharma005">
+    <img src="https://user-images.githubusercontent.com/76098066/186728913-a66ef85f-4644-4e3a-b847-98309c8cff42.svg">
+  </a>
+  <a href="https://www.instagram.com/_thisisvikas">
+    <img src="https://user-images.githubusercontent.com/76098066/186728908-f1a9919a-f4b2-4262-9515-683e77f8aabf.svg">
+  </a>
+  <a href="https://twitter.com/hitechvikas05">
+    <img src="https://user-images.githubusercontent.com/76098066/186728901-a4d90f01-2cdf-45c1-a1b3-73467c3d2698.svg">
+  </a>
+</div>
+
+You can find more about me and my projects on my [GitHub profile](https://github.com/vikasharma005).
+
+
+## Contributing
+
+Contributions are welcome! If you have any bug fixes or improvements, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

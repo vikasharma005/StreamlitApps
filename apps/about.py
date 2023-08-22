@@ -3,7 +3,7 @@ import streamlit as st
 
 def about():
     st.write("""
-        These are some fun apps developed in Streamlit.        
+        These are some apps developed in Streamlit.        
     """)
 
 
